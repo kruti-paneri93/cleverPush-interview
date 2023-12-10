@@ -1,0 +1,14 @@
+export const LogoImage = '../../assests/logo.png';
+export const InApp = '../../assests/iPhone 14 Pro.png';
+export const GoogleWebStories = '../../assests/Frame 846.png';
+export const WebStories ='../../assests/Frame 845.png';
+export const LogoOne = '../../assests/logo-slider/image 5.png';
+export const LogoTwo = '../../assests/logo-slider/Mask group (1).png';
+export const LogoThree = '../../assests/logo-slider/Mask group (2).png';
+export const LogoFour = '../../assests/logo-slider/Mask group.png';
+export const Long1 = '../../assests/hero-images/Rectangle 315.png';
+export const Long3 = '../../assests/hero-images/Rectangle 317.png';
+export const short1 = '../../assests/hero-images/Group 452.png';
+export const short2 = '../../assests/hero-images/Rectangle 321.png';
+export const short3 = '../../assests/hero-images/Group 454.png';
+export const short4 = '../../assests/hero-images/Rectangle 322.png';

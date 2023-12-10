@@ -1,0 +1,13 @@
+/* src/index.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* src/index.css or your main CSS file */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
+/* Your other styles below */
+body {
+  font-family: 'DM Sans', sans-serif;
+  overflow-x: none;
+}
