@@ -50,7 +50,7 @@ function Content() {
             <div className='relative'>
                 <div className='bg-cream lg:h-524 md:h-auto'>
                     <div className='container mx-auto flex items-center justify-between lg:w-11/12'>
-                        <h1 className='lg:text-section-heading md:text-4xl font-bold mt-50 md:mt-10 text-left max-w-max'>
+                        <h1 className='lg:text-section-heading md:text-4xl font-bold mt-50 md:mt-10 text-left max-w-max !leading-56'>
                             Share your message in a visualized, engaging way on a channel that will work best for you.
                         </h1>
                     </div>
@@ -71,7 +71,7 @@ function Content() {
                         </div>
                     </div>
                     <div className='mx-auto mt-50'>
-                        <h1 className='lg:text-section-heading md:text-4xl font-bold lg:mt-52 md:mt-10 text-center max-w-mid-screen mx-auto'>
+                        <h1 className='lg:text-section-heading md:text-4xl font-bold lg:mt-52 md:mt-10 text-center max-w-mid-screen mx-auto !leading-56'>
                             Level up your brands, see massive growth, Get 4X better user engagement and increase sales.
                         </h1>
                         <div className='lg:flex-row flex lg:mt-40 md:mt-28 gap-24 flex-col'>

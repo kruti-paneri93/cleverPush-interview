@@ -39,7 +39,7 @@ function Hero() {
                             Web Stories
                         </div>
                     </div>
-                    <h1 className='lg:text-6xl md:text-5xl font-bold mt-50 max-w-mid-screen mx-auto'>
+                    <h1 className='lg:text-6xl md:text-5xl font-bold mt-50 max-w-mid-screen mx-auto leading-56'>
                         Onboard new users with in-app stories, excite your buyers with new products
                     </h1>
                     <div className='flex justify-center'>

@@ -24,6 +24,9 @@ module.exports = {
         'theme-blue' : '#275FFF',
         'cream': '#F8F9FA',
       },
+      lineHeight : {
+        '56' : '56px',
+      }
     },
   },
   content: [
