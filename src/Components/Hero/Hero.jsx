@@ -17,6 +17,17 @@ function Hero() {
         pauseOnHover: false,
         pauseOnFocus: false,
         speed: 1000,
+        responsive: [
+            {
+                breakpoint: 991,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    autoplaySpeed: 1200,
+                    speed:5000,
+                },
+            },
+        ],
     };
 
     return (
@@ -28,11 +39,11 @@ function Hero() {
                             Web Stories
                         </div>
                     </div>
-                    <h1 className='text-6xl font-bold mt-50 max-w-mid-screen mx-auto'>
+                    <h1 className='lg:text-6xl md:text-5xl font-bold mt-50 max-w-mid-screen mx-auto'>
                         Onboard new users with in-app stories, excite your buyers with new products
                     </h1>
                     <div className='flex justify-center'>
-                        <p className='text-sub-heading max-w-6xl mt-6 text-gray-text'>
+                        <p className='lg:text-sub-heading md:text-lg max-w-6xl mt-6 text-gray-text'>
                             Stories on Your Website & In Your App. Google Stories. Landing Pages. Distributed ANYWHERE.
                             Excite your audience with dynamic & personalized stories, share stories via link, embeds or QR code, and track the performance - all in one powerful tool.
                         </p>
